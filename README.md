@@ -4,7 +4,7 @@
 
 <h2><a href="https://esteecodes.github.io/HTML-CSS-JS-Coursera/module2-solution/" target="_blank">Module 2</a></h2>
 <h2><a href="https://esteecodes.github.io/HTML-CSS-JS-Coursera/module3-solution/" target="_blank">Module 3</a></h2>
-<h2><a href="https://esteecodes.github.io/HTML-CSS-JS-Coursera/module4-solution/header" target="_blank">Module 4</a></h2>
+<h2><a href="https://esteecodes.github.io/HTML-CSS-JS-Coursera/module4-solution/harder" target="_blank">Module 4</a></h2>
 <h2><a href="https://esteecodes.github.io/HTML-CSS-JS-Coursera/module5-solution/" target="_blank">Module 5</a></h2>
 
 <h3>Connect with me on Social Media ↓</h3>
